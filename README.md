@@ -72,19 +72,24 @@
 
 <!-- 📊 GitHub Stats -->
 <h3 align="center">📊 GitHub Stats</h3>
+
+<!-- Streak Stats -->
 <div align="center">
-  <!-- GitHub Streak Stats -->
   <img
     src="https://streak-stats.demolab.com/?user=SeungWoo1222&theme=tokyonight&hide_border=true"
     height="180"
-  />&nbsp;
-  <!-- GitHub Profile Trophy -->
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=SeungWoo1222&theme=tokyonight&no-frame=true&row=1&column=4"
-    height="150"
   />
 </div>
 <br>
+
+<!-- Trophy -->
+<div align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=SeungWoo1222&theme=tokyonight&no-frame=true&row=1&column=3&exclude=Followers,Issues,CurrentStreak,LongestStreak"
+  />
+</div>
+<br>
+
 
 <!-- 📫 Contact -->
 <h3 align="center">📫 Contact</h3>
