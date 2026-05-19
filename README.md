@@ -46,8 +46,6 @@
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />&nbsp;
 </div>
 
-<br>
-
 <h3 align="center">Monitoring</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />&nbsp;
@@ -63,26 +61,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />&nbsp;
 </div>
 
-<br>
-
-<!-- 📊 GitHub Stats -->
-<h2 align="center">📊 GitHub Stats</h2>
-
-<!-- Streak Stats -->
-<div align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=SeungWoo1222&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-</div>
-<br>
-
-<!-- Trophy -->
-<div align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=SeungWoo1222&theme=tokyonight&no-frame=true&row=1&column=3&exclude=Followers,Issues,CurrentStreak,LongestStreak"
-  />
-</div>
 <br>
 
 
