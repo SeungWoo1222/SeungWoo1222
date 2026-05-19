@@ -3,12 +3,7 @@
 <h3 align="center">👇 제 포트폴리오가 궁금하다면? 👇</h3>
 <div align="center">
   <a href="https://www.seungwoo.site">
-    <img
-      src="./assets/portfolio-preview.png"
-      alt="포트폴리오 미리보기"
-      width="80%"
-      style="border-radius: 12px;"
-    />
+    https://www.seungwoo.site
   </a>
 </div>
 
