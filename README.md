@@ -70,4 +70,7 @@
   <a href="mailto:ilginam24@gmail.com">
     <img src="https://img.shields.io/badge/ilgin@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />&nbsp;
   </a>
+  <a href="https://velog.io/@ilginam24/posts">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" />&nbsp;
+  </a>
 </div>
